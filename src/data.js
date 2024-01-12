@@ -9,7 +9,7 @@ export const data = [
     {
     id: 2,
     imageOne: "https://img0.liveinternet.ru/images/attach/c/7/125/68/125068962_sunrise_in_genoa_italy_211.jpg",
-    imageTwo:"https://ibb.co/6B5gmcR][img]https://i.ibb.co/SrpRPDX/lighthouse-in-genova-italy6.jpg",
+    imageTwo:"https://i.ibb.co/SrpRPDX/lighthouse-in-genova-italy6.jpg",
     name: "The Lanterna",
     description: "Iconic lighthouse offering panoramic views of the city and port."
     },
