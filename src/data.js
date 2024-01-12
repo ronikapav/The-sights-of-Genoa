@@ -2,14 +2,14 @@ export const data = [
     {
     id: 1,
     imageOne: "https://www.artribune.com/wp-content/uploads/2017/08/genova.jpg",
-    imageTwo:"http://italia-ru.com/files/piazza_de_ferrari_a_genova8.jpg",
+    imageTwo:"https://i.ibb.co/Yf0VDcc/piazza-de-ferrari-a-genova8.jpg",
     name: "Palazzo Ducale",
     description: "Historical palace with beautiful artwork and stunning architecture."
     },
     {
     id: 2,
     imageOne: "https://img0.liveinternet.ru/images/attach/c/7/125/68/125068962_sunrise_in_genoa_italy_211.jpg",
-    imageTwo:"http://italia-ru.com/files/lighthouse_in_genova_italy6.jpg",
+    imageTwo:"https://ibb.co/6B5gmcR][img]https://i.ibb.co/SrpRPDX/lighthouse-in-genova-italy6.jpg",
     name: "The Lanterna",
     description: "Iconic lighthouse offering panoramic views of the city and port."
     },
